@@ -64,7 +64,6 @@ irc://irc.audioscrobbler.com/audioscrobbler
 
 + [Reference 3](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/als_deep_dive.ipynb)
 
-+ [Reference 4](+ [Reference 3](https://github.com/recommenders-team/recommenders/blob/main/examples/02_model_collaborative_filtering/als_deep_dive.ipynb))
 
 
 
